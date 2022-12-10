@@ -35,11 +35,11 @@ namespace prova
             string dimensione = "Dimensione: " + dimensioneMb;
             double velocita = (speed / 100000.0);
             velocita = Math.Round(velocita, 2);
-            //mostro il risultato che contiene il tempo di download, la dimensione del file e la sua velocità
-            string risultato = tempoDownload  + dimensione + " Mb" + "\r\n" + velocita +" Mb/s";
+            //mostro il risultato che contiene il tempo di download, la dimensione del file e la sua velocitÃ 
+            string risultato = tempoDownload  + dimensione + " Mb" + "\r\n" + "VelocitÃ : " + velocita +" Mb/s";
             textBox1.Text = risultato.ToString();
-            //operatore ternario per controllare se la velocità supera i 100 Mbps lo imposto a 100 per evitare
-            //    errori nella barra della velocità
+            //operatore ternario per controllare se la velocitÃ  supera i 100 Mbps lo imposto a 100 per evitare
+            //    errori nella barra della velocitÃ 
             _ = (velocita > 100) ? velocita = 100 : velocita;
             progressBar1.Value = (int)velocita;
             //chiudo l'avviso dopo aver terminato il test
