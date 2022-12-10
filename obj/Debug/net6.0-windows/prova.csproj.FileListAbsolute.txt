@@ -1,0 +1,17 @@
+C:\Users\ufs02a2\source\repos\prova\prova\bin\Debug\net6.0-windows\prova.exe
+C:\Users\ufs02a2\source\repos\prova\prova\bin\Debug\net6.0-windows\prova.deps.json
+C:\Users\ufs02a2\source\repos\prova\prova\bin\Debug\net6.0-windows\prova.runtimeconfig.json
+C:\Users\ufs02a2\source\repos\prova\prova\bin\Debug\net6.0-windows\prova.dll
+C:\Users\ufs02a2\source\repos\prova\prova\bin\Debug\net6.0-windows\prova.pdb
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.csproj.AssemblyReference.cache
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.Form1.resources
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.csproj.GenerateResource.cache
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.AssemblyInfoInputs.cache
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.AssemblyInfo.cs
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.csproj.CoreCompileInputs.cache
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.dll
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\refint\prova.dll
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.pdb
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\prova.genruntimeconfig.cache
+C:\Users\ufs02a2\source\repos\prova\prova\obj\Debug\net6.0-windows\ref\prova.dll
